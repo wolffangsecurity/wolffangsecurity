@@ -21,7 +21,7 @@
 ### 🛡️ Offensive Security & Vulnerability Research
 - [CVEs](https://github.com/wolffangsecurity/CVEs)
 - [Metasploitable 2 Vulnerability Management Lifecycle](https://github.com/wolffangsecurity/metasploitable2-vuln-assessment-infrastructure)
-- [STIG-Compliance-Remediation](https://github.com/wolffangsecurity/STIG-Compliance-Remediation)
+
 
 
 
