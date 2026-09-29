@@ -9,9 +9,9 @@
 ## 📂 Projects
 
 ### 🤖 AI & Detection Engineering
-- [Wolf Hunt](https://github.com/wolffangsecurity/wolfhunt)
-- [Stig-forge](https://github.com/wolffangsecurity/stig-forge)
-- [IOC_Enricher](https://github.com/wolffangsecurity/IOC_Enricher)
+- [WolfHunt: Agentic KQL Threat-Hunting Assistant](https://github.com/wolffangsecurity/wolfhunt)
+- [STIG Forge: Autonomous Compliance Engine](https://github.com/wolffangsecurity/stig-forge)
+- [Indicator of Compromise (IoC) Threat Intel Enricher](https://github.com/wolffangsecurity/IOC_Enricher)
 
 ### ☁️ Cloud Security & Threat Hunting
 - [Azure Cloud Security Architecture: IaaS Migration](https://github.com/wolffangsecurity/Azure-Cloud-Security-Implementation-Migration-Scenario)
@@ -20,7 +20,7 @@
 
 ### 🛡️ Offensive Security & Vulnerability Research
 - [CVEs](https://github.com/wolffangsecurity/CVEs)
-- [metasploitable2-vuln-assessment-infrastructure](https://github.com/wolffangsecurity/metasploitable2-vuln-assessment-infrastructure)
+- [Metasploitable 2 Vulnerability Management Lifecycle](https://github.com/wolffangsecurity/metasploitable2-vuln-assessment-infrastructure)
 - [STIG-Compliance-Remediation](https://github.com/wolffangsecurity/STIG-Compliance-Remediation)
 
 
