@@ -9,13 +9,13 @@
 ## 📂 Projects
 
 ### 🤖 AI & Detection Engineering
-- [Wolfhunt](https://github.com/wolffangsecurity/wolfhunt)
+- [Wolf Hunt](https://github.com/wolffangsecurity/wolfhunt)
 - [Stig-forge](https://github.com/wolffangsecurity/stig-forge)
 - [IOC_Enricher](https://github.com/wolffangsecurity/IOC_Enricher)
 
 ### ☁️ Cloud Security & Threat Hunting
-- [Azure-Cloud-Security-Implementation-Migration-Scenario](https://github.com/wolffangsecurity/Azure-Cloud-Security-Implementation-Migration-Scenario)
-- [Global-Threat-Visualization-Azure-Honeynet-Mapping](https://github.com/wolffangsecurity/Global-Threat-Visualization-Azure-Honeynet-Mapping)
+- [Azure Cloud Security Architecture: IaaS Migration](https://github.com/wolffangsecurity/Azure-Cloud-Security-Implementation-Migration-Scenario)
+- [Microsoft Azure Honeynet](https://github.com/wolffangsecurity/Global-Threat-Visualization-Azure-Honeynet-Mapping)
 - [ThreatHunt](https://github.com/wolffangsecurity/ThreatHunt)
 
 ### 🛡️ Offensive Security & Vulnerability Research
