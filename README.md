@@ -9,9 +9,11 @@
 ## 📂 Projects
 
 ### 🤖 AI & Detection Engineering
-- [WolfHunt: Agentic KQL Threat-Hunting Assistant](https://github.com/wolffangsecurity/wolfhunt)
+- [Credential Checker](https://github.com/wolffangsecurity/Credential-Checker/blob/main/README.md)
 - [STIG Forge: Autonomous Compliance Engine](https://github.com/wolffangsecurity/stig-forge)
+- [WolfHunt: Agentic KQL Threat-Hunting Assistant](https://github.com/wolffangsecurity/wolfhunt)
 - [Indicator of Compromise (IoC) Threat Intel Enricher](https://github.com/wolffangsecurity/IOC_Enricher)
+
 
 ### ☁️ Cloud Security & Threat Hunting
 - [Azure Cloud Security Architecture: IaaS Migration](https://github.com/wolffangsecurity/Azure-Cloud-Security-Implementation-Migration-Scenario)
