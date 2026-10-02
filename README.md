@@ -9,7 +9,7 @@
 ## 📂 Projects
 
 ### 🤖 AI & Detection Engineering
-- [Credential Checker](https://github.com/wolffangsecurity/Credential-Checker/blob/main/README.md)
+- [Credential Checker](https://github.com/wolffangsecurity/Credential-Checker)
 - [STIG Forge: Autonomous Compliance Engine](https://github.com/wolffangsecurity/stig-forge)
 - [WolfHunt: Agentic KQL Threat-Hunting Assistant](https://github.com/wolffangsecurity/wolfhunt)
 - [Indicator of Compromise (IoC) Threat Intel Enricher](https://github.com/wolffangsecurity/IOC_Enricher)
@@ -24,7 +24,8 @@
 - [CVEs](https://github.com/wolffangsecurity/CVEs)
 - [Metasploitable 2 Vulnerability Management Lifecycle](https://github.com/wolffangsecurity/metasploitable2-vuln-assessment-infrastructure)
 
-
+### 💻 Web Development
+- [Email Rewriter](https://github.com/wolffangsecurity/Email-Rewriter)
 
 
 ## 🎖️ Certifications
