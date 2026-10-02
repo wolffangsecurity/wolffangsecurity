@@ -26,6 +26,7 @@
 - [Metasploitable 2 Vulnerability Management Lifecycle](https://github.com/wolffangsecurity/metasploitable2-vuln-assessment-infrastructure)
 
 ### 💻 Web Development
+- [Tinfoil](https://github.com/wolffangsecurity/tinfoil-tv)
 - [Email Rewriter](https://github.com/wolffangsecurity/Email-Rewriter)
 - [Larkspur Coffee Roasters](https://coffee-three-livid-90.vercel.app/)
 
