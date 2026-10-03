@@ -1,8 +1,3 @@
-# Sameal Con-Roma
-> **Security Researcher · Detection Engineer · Cloud Security & Compliance**  
-> *M.S. Cybersecurity & Information Assurance · PNPT, eCPPT, eWPTX, BTL1, CySA+, Pentest+*
-
-[Portfolio](https://wolffangsecurity.github.io) · [GitHub Repositories](https://github.com/wolffangsecurity?tab=repositories) · [Credly](https://www.credly.com/users/sameal-con-roma.98917cf1/badges#credly) · [Accredible](https://www.credential.net/profile/samealconroma448399/wallet) · [Email](mailto:sconroma@protonmail.com)
 
 ---
 
@@ -31,17 +26,6 @@
 - [Larkspur Coffee Roasters](https://coffee-three-livid-90.vercel.app/)
 
 
-## 🎖️ Certifications
-
-- **Offensive Security:** PNPT · eCPPT · CNPen · eJPT · CompTIA Pentest+ · CEH
-- **Defensive Security:** BTL1 · CompTIA CySA+ · CompTIA Security+ · ISC2 CC
-- **Web & Mobile AppSec:** eWPTX · eWPT · PWPP · CAPen · eMAPT · CMPen
-- **Cloud Security:** CompTIA Cloud+ · CSCP · AWS CCP
 
 ---
 
-## 📫 Contact
-
-- **Website:** 
-- **Email:** `sconroma@protonmail.com`
-- **GitHub:** [@wolffangsecurity](https://github.com/wolffangsecurity)
