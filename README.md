@@ -11,9 +11,10 @@
 
 
 ### ☁️ Cloud Security & Threat Hunting
+- [Microsoft Azure Honeynet](https://github.com/wolffangsecurity/Global-Threat-Visualization-Azure-Honeynet-Mapping)
 - [ThreatHunt](https://github.com/wolffangsecurity/ThreatHunt)
 - [Azure Cloud Security Architecture: IaaS Migration](https://github.com/wolffangsecurity/Azure-Cloud-Security-Implementation-Migration-Scenario)
-- [Microsoft Azure Honeynet](https://github.com/wolffangsecurity/Global-Threat-Visualization-Azure-Honeynet-Mapping)
+
 
 
 ### 🛡️ Offensive Security & Vulnerability Research
