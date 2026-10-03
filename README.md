@@ -3,7 +3,7 @@
 
 
 
-### 🤖 AI & Detection Engineering
+### 🤖 Agentic AI & Detection Engineering
 - [Credential Checker](https://github.com/wolffangsecurity/Credential-Checker)
 - [STIG Forge: Autonomous Compliance Engine](https://github.com/wolffangsecurity/stig-forge)
 - [WolfHunt: Agentic KQL Threat-Hunting Assistant](https://github.com/wolffangsecurity/wolfhunt)
@@ -11,8 +11,8 @@
 
 
 ### ☁️ Cloud Security & Threat Hunting
+- [ThreatHunts](https://github.com/wolffangsecurity/ThreatHunt)
 - [Microsoft Azure Honeynet](https://github.com/wolffangsecurity/Global-Threat-Visualization-Azure-Honeynet-Mapping)
-- [ThreatHunt](https://github.com/wolffangsecurity/ThreatHunt)
 - [Azure Cloud Security Architecture: IaaS Migration](https://github.com/wolffangsecurity/Azure-Cloud-Security-Implementation-Migration-Scenario)
 
 
